@@ -1,5 +1,5 @@
 --- 
-title: "LCC Transfer Resource Guide"
+title: "LCC General Transfer Resource Guide"
 author: 
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
