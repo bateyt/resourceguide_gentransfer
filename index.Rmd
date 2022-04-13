@@ -15,7 +15,7 @@ github-repo: bateyt/resourceguide_gentransfer
 
 # About
 
-This guide is a collection of useful transfer resources that includes general information and links to popular transfer institutions and and their specific programs related to LCC's pathways/programs.
+This guide is a collection of useful transfer resources that includes general information and links to popular transfer institutions. 
 
 ## Usage 
 
