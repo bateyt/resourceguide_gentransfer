@@ -1,5 +1,3 @@
-about
-usage
 general
 central-washington-university
 city-university-of-seattle
@@ -10,3 +8,4 @@ university-of-washington
 warner-pacific-college
 washington-state-university
 western-washington-university
+cover-image-path-to-the-social-sharing-image-like-imagescover.jpg

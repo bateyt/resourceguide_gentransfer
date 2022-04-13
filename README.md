@@ -1,12 +1,12 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is a collection of general transfer resources for LCC advisors, faculty mentors, and students. It includes information for LCC's most common transfer institutions.
 
-This template provides a skeleton file structure that you can edit to create your book. 
+<hr>
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
+Additional notes/resources:
 
-Additional resources:
+This book was produced with R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
