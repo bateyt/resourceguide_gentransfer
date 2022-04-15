@@ -1,4 +1,4 @@
---- 
+---
 title: "LCC General Transfer Resource Guide"
 author: 
 date: "`r Sys.Date()`"
@@ -14,14 +14,16 @@ link-citations: yes
 github-repo: bateyt/resourceguide_gentransfer
 ---
 
-# About {-}
+# About {.unnumbered}
 
-This guide is a collection of useful transfer resources that includes general information and links to popular transfer institutions. 
+This guide is a collection of useful transfer resources that includes general information and links to popular transfer institutions. For pathway-/program-specific resources for each of the transfer institutions in this guide, visit any of the pathway resource guides below.
 
-## Usage {-}
+- [Accounting, Business, and Leadership](https://bateyt.github.io/resourceguide_abl)
+- [Social Science and Criminal Justice](https://bateyt.github.io/resourceguide_sscj)
+
+## Usage {.unnumbered}
 
 This guide is for pathway advisors, faculty mentors, and students.
-
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
